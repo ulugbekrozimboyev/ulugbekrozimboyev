@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I specialize in Java development, with extensive e
 ### 🏆 Certifications
 
 - AWS Certified Solutions Architect – Associate
-- [Other relevant certifications if any]
 
 ### 🛠️ Technologies
 
