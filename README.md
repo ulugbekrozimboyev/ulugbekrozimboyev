@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I specialize in Java development, with extensive e
 ### 🏆 Certifications
 
 - AWS Certified Solutions Architect – Associate
+See my other certifications [here](https://www.credly.com/users/ulugbek-rozimboyev)
 
 ### 🛠️ Technologies
 
