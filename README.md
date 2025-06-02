@@ -32,12 +32,12 @@ See my other certifications [here](https://www.credly.com/users/ulugbek-rozimboy
 
 ### 📚 Recent Projects
 
-- [Fonon Jewellery E-commerce Platform](https://fononjewellery.com) - A full-featured e-commerce platform built with ReactJS and Spring, hosted on AWS.
+- [Fonon Jewellery E-commerce Platform](https://fonon.uz) - A full-featured e-commerce platform built with ReactJS and Spring, hosted on AWS.
+- [Mybazar Fashion Marketplace](https://mybazar.uz/) - A marketplace platform on top of shopify built with ReactJS and Python, used several services from AWS.
 
 ### 🌱 I'm currently learning
 
 - Exploring more about microservices architectures and cloud-native solutions.
-- Deepening my knowledge of blockchain and cryptocurrency technologies.
 
 ### 📫 How to Reach Me
 
