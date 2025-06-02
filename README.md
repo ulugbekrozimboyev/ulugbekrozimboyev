@@ -18,7 +18,7 @@ See my other certifications [here](https://www.credly.com/users/ulugbek-rozimboy
 
 ### 🛠️ Technologies
 
-- **Languages**: Java, JavaScript
+- **Languages**: Java
 - **Frameworks**: Spring
 - **Databases**: PostgreSQL, Oracle
 - **Tools**: Docker, Elasticsearch, Liquibase
